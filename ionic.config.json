@@ -1,0 +1,7 @@
+{
+  "name": "RussianForAll",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
